@@ -10,6 +10,6 @@ def is_palindrome_recursive(word, low_index, high_index):
         return False
 
 
-teste = ''
+teste = 'aaa'
 
 print(is_palindrome_recursive(teste, 0, len(teste) - 1))
